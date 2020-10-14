@@ -9,7 +9,7 @@
 
 
 # Group Members
-|<img src="etc/member_1.jpg" width="120px" height="120px">|<img src="etc/member_2.jpg" width="120px" height="120px">|<img src="etc/member_3.jpg" width="120px" height="120px">|
+|<img src="etc/member_1.png" width="120px" height="120px">|<img src="etc/member_2.jpg" width="120px" height="120px">|<img src="etc/member_3.jpg" width="120px" height="120px">|
 |:---:|:---:|:---:|
 |[khunpanggg](https://github.com/khunpanggg)|[Chokcolate](https://github.com/Chokcolate)|[SunisaChanbang](https://github.com/SunisaChanbang)|
 |ณิชาภัทร<br>คชาชีวะ|ธีรวัต<br>กาญจนปานวงษ์|สุนิสา<br>จันทร์บาง|
