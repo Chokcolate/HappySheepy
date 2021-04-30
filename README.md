@@ -1,7 +1,10 @@
-https://drive.google.com/drive/folders/1m7g6FeW5kucnu_9g-VrcGPDzcJwnZiEb?usp=sharing
 # HappySheepy
 06016343 GAME DESIGN AND DEVELOPMENT
 <br>Factory Information Technology, King Mongkut's Institute of Technology Ladkrabang
+
+# HappySheepy - Video Demo
+<li>link Video - <a href="https://youtu.be/efsGeXwQ1jk">https://youtu.be/efsGeXwQ1jk</a><br><br></li>
+
 
 # Story
 &emsp;&emsp;ณ หมู่บ้านชนบทอันแสนสงบสุขแห่งหนึ่ง ที่มีเรื่องราวของเหล่าเด็กเลี้ยงแกะ พวกเขาได้รับหน้าที่ให้คอยเฝ้าดูแลฝูงแกะในคอกของตน ซึ่งเป็นหน้าที่อันแสนเบื่อหน่ายที่สุดที่เขาได้รับในทุกๆวัน และในวันหนึ่งก็มีเรื่องราวไม่คาดฝันเกินขึ้น เมื่อมีเหล่าหมาป่าตัวร้ายจะมากินแกะในคอกของพวกเขา ทำให้พวกเขาต้องป้องกันแกะของตนที่มีความซุกซน ชอบกระโดดออกจากคอกอยู่เรื่อย สร้างปัญหาให้กับเด็กเลี้ยงแกะเป็นอย่างมาก เมื่อพวกเขาจะสามารถปกป้องแกะให้ปลอดภัยได้หรือไม่
